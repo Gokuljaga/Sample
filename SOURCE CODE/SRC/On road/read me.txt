@@ -1,0 +1,63 @@
+
+  EV Charging Station & Infrastructure
+
+The system comprises of 3 major modules with their sub-modules as follows:
+1. Admin
+	* Login: Admin need to login with valid login credentials.
+	* View Mechanics: Admin can view the registered mechanics with their details and has the access to allow 
+           or block a mechanics.
+	* View Users: Admin can view all the registered user details.
+	* View Feedback: Admin can view all the feedback given by the user and mechanic.
+	* Logout
+2. Mechanic:
+	* Register: Mechanics can register with all their information.
+	* Login: Registered mechanics will be provided access to Login only if the Admin
+           will allow or block.
+	* View Request: Mechanics can view the request which is sent by the user.
+	* Logout
+
+3. User:
+	* Register: User can register with all their details.
+	* Login: Registered user can Login with their credentials.
+	* Search  location based Mechanics: User can search for local mechanics on the basis of their
+          locations and  Send Request  On selection of the mechanics, the user can send the request to
+          the respective mechanic.
+	* View the request status of their works
+	* Feedback: User can give their feedback accordingly the services
+	* Logout
+
+
+This project is used to solve the problems through the online mode.. It is more comfortable for the users.....
+
+
+
+
+
+Thankyou for Watching this video.....
+ By 1CRORE PROJECTS.....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
