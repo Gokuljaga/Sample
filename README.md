@@ -1,3 +1,3 @@
 # Sample
-My first project
+My first projet
 EV Charging and Infrastructure
